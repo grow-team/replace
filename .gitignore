@@ -1,0 +1,4 @@
+.vscode
+.DS_*
+node_modules
+fortest
